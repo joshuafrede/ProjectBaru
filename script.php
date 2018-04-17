@@ -31,9 +31,3 @@
 <script src="js/jquery.validate.min.js"></script>
 
 <script src="js/custom.js"></script>
-
-woooooowoooowooowoo
-woooooowoooowooowoo
-woooooowoooowooowoo
-woooooowoooowooowoo
-woooooowoooowooowoo
